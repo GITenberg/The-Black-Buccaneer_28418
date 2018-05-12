@@ -1,0 +1,34 @@
+_repo: The-Black-Buccaneer_28418
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meader, Stephen W. (Stephen Warren)
+    alias: Meader, Stephen Warren
+    birthdate: 1892
+    deathdate: 1977
+    gutenberg_agent_id: '33325'
+    url: http://www.gutenberg.org/2009/agents/33325
+description: While guarding sheep on an island off the coast of Maine, Jeremy is kidnapped
+  by Captain Stede Bonnet and other pirates who had been using the island as a base.
+  Jeremy survives a perilous trip to the West Indies but is very lonesome until the
+  son of a prominent man in the Carolinas is also captured. Together the boys try
+  to escape and return home.
+gutenberg_issued: '2009-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Bonnet, Stede, -1718 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Buccaneers -- Juvenile fiction'
+title: The Black Buccaneer
+url: http://www.gutenberg.org/ebooks/28418
